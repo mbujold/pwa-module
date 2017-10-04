@@ -36,6 +36,8 @@ workbox-*
 
 # Modules
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/pwa.svg)](https://greenkeeper.io/)
+
 <!-- PWA -->
 <h2 align="center">PWA</h2>
 
